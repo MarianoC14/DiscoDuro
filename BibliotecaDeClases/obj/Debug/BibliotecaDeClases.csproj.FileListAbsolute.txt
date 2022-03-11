@@ -1,0 +1,12 @@
+C:\Users\Diana\source\repos\DiscoDuro\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\Diana\source\repos\DiscoDuro\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\Diana\source\repos\DiscoDuro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csprojAssemblyReference.cache
+C:\Users\Diana\source\repos\DiscoDuro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\DiscoDuro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\Diana\source\repos\DiscoDuro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
+C:\Users\MarianoCaro\Downloads\DiscoDuro\DiscoDuro\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\MarianoCaro\Downloads\DiscoDuro\DiscoDuro\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\MarianoCaro\Downloads\DiscoDuro\DiscoDuro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csprojAssemblyReference.cache
+C:\Users\MarianoCaro\Downloads\DiscoDuro\DiscoDuro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\MarianoCaro\Downloads\DiscoDuro\DiscoDuro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\MarianoCaro\Downloads\DiscoDuro\DiscoDuro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

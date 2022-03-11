@@ -21,7 +21,7 @@ namespace Interfaces
         {
             objDisco_ = objDisco;
             InitializeComponent();
-            MessageBox.Show(Convert.ToString(objDisco.tamanio[1]));
+            //MessageBox.Show(Convert.ToString(objDisco.tamanio[1]));
         }
 
         private void frmMenu_Load(object sender, EventArgs e)

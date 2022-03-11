@@ -37,9 +37,10 @@ namespace Interfaces
             // 
             // btnGuardar
             // 
-            this.btnGuardar.Location = new System.Drawing.Point(249, 50);
+            this.btnGuardar.Location = new System.Drawing.Point(301, 76);
+            this.btnGuardar.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(220, 84);
+            this.btnGuardar.Size = new System.Drawing.Size(248, 105);
             this.btnGuardar.TabIndex = 0;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
@@ -47,9 +48,10 @@ namespace Interfaces
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(249, 151);
+            this.btnEliminar.Location = new System.Drawing.Point(280, 189);
+            this.btnEliminar.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnEliminar.Name = "btnEliminar";
-            this.btnEliminar.Size = new System.Drawing.Size(220, 84);
+            this.btnEliminar.Size = new System.Drawing.Size(248, 105);
             this.btnEliminar.TabIndex = 1;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
@@ -57,9 +59,10 @@ namespace Interfaces
             // 
             // btnMostrar
             // 
-            this.btnMostrar.Location = new System.Drawing.Point(249, 254);
+            this.btnMostrar.Location = new System.Drawing.Point(280, 318);
+            this.btnMostrar.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnMostrar.Name = "btnMostrar";
-            this.btnMostrar.Size = new System.Drawing.Size(220, 84);
+            this.btnMostrar.Size = new System.Drawing.Size(248, 105);
             this.btnMostrar.TabIndex = 2;
             this.btnMostrar.Text = "Mmostrar";
             this.btnMostrar.UseVisualStyleBackColor = true;
@@ -67,9 +70,10 @@ namespace Interfaces
             // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(554, 436);
+            this.btnSalir.Location = new System.Drawing.Point(623, 545);
+            this.btnSalir.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnSalir.Name = "btnSalir";
-            this.btnSalir.Size = new System.Drawing.Size(220, 84);
+            this.btnSalir.Size = new System.Drawing.Size(248, 105);
             this.btnSalir.TabIndex = 3;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
@@ -77,13 +81,14 @@ namespace Interfaces
             // 
             // frmMenu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 542);
+            this.ClientSize = new System.Drawing.Size(900, 678);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnMostrar);
             this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.btnGuardar);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmMenu";
             this.Text = "frmMenu";
             this.Load += new System.EventHandler(this.frmMenu_Load);

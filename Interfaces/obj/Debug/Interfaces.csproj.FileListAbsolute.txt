@@ -1,0 +1,17 @@
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.frmEliminar.resources
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.frmGuardar.resources
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.frmMenu.resources
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.frmMochadas.resources
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.frmMostrar.resources
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.cache
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\bin\Debug\BibliotecaDeClases.dll
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\Interfaces\obj\Debug\Interfaces.pdb

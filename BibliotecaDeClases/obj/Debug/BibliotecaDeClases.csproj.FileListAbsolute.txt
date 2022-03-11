@@ -10,3 +10,9 @@ C:\Users\MarianoCaro\Downloads\DiscoDuro\DiscoDuro\BibliotecaDeClases\obj\Debug\
 C:\Users\MarianoCaro\Downloads\DiscoDuro\DiscoDuro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
 C:\Users\MarianoCaro\Downloads\DiscoDuro\DiscoDuro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
 C:\Users\MarianoCaro\Downloads\DiscoDuro\DiscoDuro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csprojAssemblyReference.cache
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\MarianoCaro\OneDrive\Escritorio\Equipo_2\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

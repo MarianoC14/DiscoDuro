@@ -39,65 +39,71 @@ namespace Interfaces
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(234, 123);
+            this.txtNombre.Location = new System.Drawing.Point(263, 154);
+            this.txtNombre.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(100, 22);
+            this.txtNombre.Size = new System.Drawing.Size(112, 26);
             this.txtNombre.TabIndex = 14;
             // 
             // txtPartitura
             // 
-            this.txtPartitura.Location = new System.Drawing.Point(234, 73);
+            this.txtPartitura.Location = new System.Drawing.Point(263, 91);
+            this.txtPartitura.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtPartitura.Name = "txtPartitura";
-            this.txtPartitura.Size = new System.Drawing.Size(100, 22);
+            this.txtPartitura.Size = new System.Drawing.Size(112, 26);
             this.txtPartitura.TabIndex = 13;
             // 
             // btnAceptar
             // 
-            this.btnAceptar.Location = new System.Drawing.Point(234, 358);
+            this.btnAceptar.Location = new System.Drawing.Point(263, 448);
+            this.btnAceptar.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnAceptar.Name = "btnAceptar";
-            this.btnAceptar.Size = new System.Drawing.Size(75, 23);
+            this.btnAceptar.Size = new System.Drawing.Size(84, 29);
             this.btnAceptar.TabIndex = 12;
             this.btnAceptar.Text = "Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(202, 248);
+            this.btnEliminar.Location = new System.Drawing.Point(227, 310);
+            this.btnEliminar.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnEliminar.Name = "btnEliminar";
-            this.btnEliminar.Size = new System.Drawing.Size(75, 23);
+            this.btnEliminar.Size = new System.Drawing.Size(84, 29);
             this.btnEliminar.TabIndex = 11;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(115, 117);
+            this.label2.Location = new System.Drawing.Point(129, 146);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(108, 17);
+            this.label2.Size = new System.Drawing.Size(119, 20);
             this.label2.TabIndex = 9;
             this.label2.Text = "Nombre archivo";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(112, 73);
+            this.label1.Location = new System.Drawing.Point(126, 91);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(88, 17);
+            this.label1.Size = new System.Drawing.Size(97, 20);
             this.label1.TabIndex = 8;
             this.label1.Text = "No. Partitura";
             // 
             // frmEliminar
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(900, 562);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.txtPartitura);
             this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmEliminar";
             this.Text = "q";
             this.Load += new System.EventHandler(this.frmEliminar_Load);
